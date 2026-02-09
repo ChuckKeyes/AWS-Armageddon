@@ -8,3 +8,13 @@ LAMBDA_SG_ID=sg-yyyyyyyy \
 API_ID=abc123xyz \
 STAGE_NAME=prod \
 ./run_all_gates_11a.sh
+
+
+
+
+Artifacts produced:
+
+badge.txt
+gate_result.json
+pr_comment.md
+individual gate JSON files
